@@ -1,3 +1,2 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 大一大二连续两年获校级甲等奖学金、国家励志奖学金、校三好学生
+- 英语六级（CET-6）
