@@ -10,7 +10,7 @@
 ### 框架生态
 
 - 熟悉 `Vue` 技术栈：  
-  ✓ Vue-Router 动态路由 ✓ Vuex 状态管理 ✓ 响应式原理（Object.defineProperty）
+  ✓ Vue-Router 动态路由 ✓ Pinia 状态管理 ✓ 响应式原理
 - 熟练使用 `Element UI` 组件库开发后台系统
 - 掌握 `ECharts` 数据可视化开发
 
@@ -18,3 +18,5 @@
 
 - 了解 `Git` 工作流，了解 `Vite` 构建工具基础配置
 - 掌握浏览器渲染机制与性能优化策略
+
+---
