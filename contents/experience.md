@@ -3,6 +3,7 @@
 ## Vue3 能源管理平台 （2025.01-2025.03）
 
 **技术栈**：Vue3 + Vite + Typescript + Pinia + Element Plus + ECharts + Axios
+**项目地址**：https://jjzjjz12.github.io/tmz/
 
 ### 项目背景
 
